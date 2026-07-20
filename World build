@@ -1,0 +1,404 @@
+# SYSTEM INITIALIZATION: WORLD BIBLE & LORE ENGINE
+You are to act as a strict, internally consistent Lore Engine for this fictional world setting. You must treat this entire document as absolute ground truth and structural rules. 
+- Do not summarize, alter, or ignore any mathematical formulas, biological laws, or geographic counts provided below.
+- Treat the reader as someone who has full knowledge of the topic being provided; there is no need for introductory hand-holding or prerequisites. 
+- Maintain the exact technical terminology used throughout this document.
+
+---
+
+# THE MASTER WORLD BIBLE: THE SEEDFALL ERA
+
+## SECTION 1: THE CHRONICLES OF ENTRY: THE 34-DAY SEEDFALL
+Before the apocalypse stabilized, the planet endured a 34-day orbital bombardment. Exactly 1,000 alien rocks descended, turning the global atmosphere into an active physical, thermodynamic, and mechanical grinding wheel that permanently restructured human geography.
+
+[Day 1]  ──> Initial strikes begin. Stratospheric overpressure shatters urban glass networks.
+[Day 10] ──> 300 airbursts displace coastal infrastructure. Global solar radiation drops by 5%.
+[Day 15] ──> Structural failure peaks. The "False Dawn" ambient horizon light becomes permanent.
+[Day 30] ──> 1,000 airbursts complete. Albedo increases by 8%; 45% of old-world masonry is rubble.
+[Day 34] ──> The Descent ends. The rocks settle. The era of biological reconstruction begins.
+
+### Part I: The Mechanics & Size Distributions (Hypervelocity Fluid Mechanics)
+The celestial impactors arrived in three strictly defined structural classes, assuming a standard astronomical density for stony-iron chondrites ($\rho \approx 3,000 \text{ kg/m}^3$) and an Earth-crossing entry velocity ($v = 18\text{ km/s}$). While atmospheric fragmentation at the Airburst Ceiling (altitudes between 18–22 km) prevented a total mass-extinction event, the sheer acoustic, thermal, and kinetic shock waves permanently altered Earth's surface topography.
+
+┌─────────────────┬──────────────┬───────────────┬────────────────────────────────────────────────┐
+│ Rock Class      │ Core Size    │ Total Count   │ Primary Atmosphere & Kinetic Yield             │
+├─────────────────┬──────────────┬───────────────┬────────────────────────────────────────────────┤
+│ Class C & D     │ 1–10 meters  │ 700 Rocks     │ ~1 to 50 Kilotons. Severe urban shock waves.   │
+│ Class A & B     │ 15–45 meters │ 250 Rocks     │ ~1 to 5 Megatons. Structural collapse vectors. │
+│ Class S         │ 50+ meters   │ 50 Rocks      │ ~10+ Megatons (Braked). Regional displacement. │
+└─────────────────┴──────────────┴───────────────┴────────────────────────────────────────────────┘
+
+- Class C & D Impactors (The Shards): Making up 70% of the Seedfall, these fragments ($1\text{m}$ to $10\text{m}$ diameter) fractured violently in the mid-stratosphere. A typical 5-meter shard yielded roughly $7.5 \text{ Kilotons of kinetic energy}$. The dynamic pressure of entry converted these into colossal airbursts. While they left no ground craters, their downward-directed supersonic overpressure waves (3–5 psi) acted as a global hammer, systematically shearing unreinforced masonry, shattering steel-frame glass façades, and leveling older suburban infrastructure across every continent.
+- Class A & B Impactors (The Beacons): Representing 25% of the strikes, these medium meteorites ($15\text{m}$ to $45\text{m}$ diameter) detonated lower in the sky (3 to 6 km above the surface). A 30-meter beacon yielded roughly $1.64 \text{ Megatons of kinetic energy}$. The resulting thermal pulses ignited regional firestorms, while the hypervelocity blast fronts generated localized wind storms exceeding 400 km/h. These events flattened industrial zones, compromised heavy bridge networks, and turned dense urban centers into fields of skeletal concrete pillars.
+- Class S Impactors (The Anchors): The rarest variant (only 50 globally), these massive cosmic bodies exceeded 50 meters in diameter. Carrying over $13 \text{ Megatons of kinetic energy}$, their unchecked impact would have vaporized entire tectonic shelves. Upon entering the low atmosphere, the internal crystalline Xenocytos matrix within these anchors initiated an intense electromagnetic braking effect. This energy conversion slowed them to safe terminal velocities, avoiding global dust winters. They touched down intact as monumental geographic monuments, though the sheer displaced air column flattened everything within an immediate 50-km displacement radius.
+
+### Part II: The Global Breakdown Matrix (Size Class by Geographic Distribution)
+The structural density of the apocalypse was dictated by how specific rock sizes mapped across global biomes. Out of the 1,000 total rocks, exactly 710 fell in the oceans, leaving 290 land-based impactors to rewrite human history:
+
+┌────────────────┬───────────────┬───────────────┬───────────────┬─────────────────────┐
+│ Landmass       │ Class C/D     │ Class A/B     │ Class S       │ Total Land Strikes  │
+│                │ (Shards)      │ (Beacons)     │ (Anchors)     │                     │
+├────────────────┼───────────────┼───────────────┼───────────────┼─────────────────────┤
+│ Asia           │ 60 Rocks      │ 22 Rocks      │ 6 Rocks       │ 88 Rocks            │
+│ Africa         │ 42 Rocks      │ 13 Rocks      │ 4 Rocks       │ 59 Rocks            │
+│ North America  │ 33 Rocks      │ 11 Rocks      │ 4 Rocks       │ 48 Rocks            │
+│ South America  │ 25 Rocks      │ 8 Rocks       │ 2 Rocks       │ 35 Rocks            │
+│ Antarctica     │ 18 Rocks      │ 7 Rocks       │ 2 Rocks       │ 27 Rocks            │
+│ Europe         │ 15 Rocks      │ 4 Rocks       │ 1 Rock        │ 20 Rocks            │
+│ Oceania        │ 11 Rocks      │ 3 Rocks       │ 1 Rock        │ 15 Rocks            │
+├────────────────┼───────────────┼───────────────┼───────────────┼─────────────────────┤
+│ GLOBAL LAND    │ 204 Rocks     │ 68 Rocks      │ 18 Rocks      │ 290 Land Strikes    │
+│ GLOBAL OCEAN   │ 496 Rocks     │ 182 Rocks     │ 32 Rocks      │ 710 Ocean Strikes   │
+├────────────────┼───────────────┼───────────────┼───────────────┼─────────────────────┤
+│ TOTAL SEEDFALL │ 700 Rocks     │ 250 Rocks     │ 50 Rocks      │ 1,000 Total Rocks   │
+└────────────────┴───────────────┴───────────────┴───────────────┴─────────────────────┘
+
+---
+
+## SECTION 2: GEOPOLITICAL REALITY & THE RE-RESOURCE ERA
+
+### The "55% Structure Preservation" Reality
+Because the atmosphere absorbed and redirected the direct planetary-killing blows into low-altitude thermal and kinetic airbursts, humanity avoided extinction, but the physical layout of civilization was fundamentally broken down.
+
+┌───────────────────────────┬───────────────┬─────────────────────────────┐
+│ Category                  │ Total Count   │ Absolute Physical Survival  │
+├───────────────────────────┼───────────────┼─────────────────────────────┐
+│ UN Member & Observer      │ 195           │ 195 (Borders Fractured)     │
+│ Major Cities (>1M pop)    │ ~500          │ ~275 (55% Structure Intact) │
+│ Megacities (>10M pop)     │ ~45           │ ~24 (53% Structure Intact)  │
+└───────────────────────────┴───────────────┴─────────────────────────────┘
+
+Exactly 45% of the old world’s cities, transport arteries, and industrial factories were reduced to structural rubble fields during the 34 days of cascading shock waves. The nations that survived did so by retreating into the structurally sound urban hubs that remained standing. These surviving sectors were heavily retrofitted, using the ruins of the lost 45% as foundational material to construct the high, shielded perimeter walls of the modern Sanctuaries. All old-world paper currencies and fossil fuel networks completely disintegrated, replaced entirely by a physical economy centered around the extraction, trade, and internal absorption of Primal Cores.
+
+### The Core-Economy Matrix, Durability, & Consumption Mechanics
+Primal Cores are incredibly durable, high-density crystalline structures. They cannot be shattered by standard physical impacts, crushed by kinetic weaponry, or dissolved by conventional chemical agents. They are functionally indestructible under standard environmental stresses. A Core can only be broken down or destroyed through Energy Consumption. Similar to traditional internal energy refinement methodologies, a human (or rival beast) must actively absorb or siphon the raw energetic matrix contained within the crystal shell.
+
+#### The Thermodynamics of Absorption (The Clausius-Xeno Exception)
+To prevent immediate thermal vaporization of biological tissue during rapid energy transfer, the core utilizes a phase-inverted endothermic siphon. As energy is progressively metabolized into the host's system, the core absorbs ambient thermal energy from the immediate surrounding area to dissolve its silicate bonds. Visually, this causes the local temperature to drop drastically, forming rapid coats of ice on the absorber's equipment.
+
+Because the Xenocytos Symbiont actively defends its host's cellular integrity, **Awakened and Enhanced humans ignore this thermal flash entirely; the risk of hypothermia is non-existent for them as their cells maintain perfect, optimized health.** However, regular Baseline humans who have not awakened or enhanced their physiques possess no such internal protection. If exposed to this sudden localized drop in ambient temperature without heavy shielding, **unenhanced regular humans face severe, immediate hypothermia.**
+
+Once its internal energy reserves ($Q$) are completely emptied ($Q = 0$), the remaining hollow silicate shell instantly shatters into a fine, non-toxic, luminescent dust.
+
+┌──────────────────┬─────────────────────────────┬────────────────────────────────────────────────┐
+│ Harvested Core   │ Economic Classification     │ Operational Grid Binding / Absorption Capacity │
+├──────────────────┬─────────────────────────────┬────────────────────────────────────────────────┤
+│ Tiers 1–3        │ Common / Liquid Scrip       │ Powers 1 automated hydroponic bay or block grid│
+│ Tiers 4–6        │ Major Assets / Commercial   │ Powers an entire municipal sector or wall bay  │
+│ Tiers 7–9        │ Hegemonic Assets / Sovereign │ Stabilizes climate shields for whole quadrants │
+│ Tier 10          │ Infinite Artifacts          │ Powers an entire multi-tiered Sanctuary capital│
+└──────────────────┴─────────────────────────────┴────────────────────────────────────────────────┘
+
+---
+
+## SECTION 3: GEOGRAPHIC STRIKE DISTRIBUTION & BIOME CLASSES
+
+Out of the 1,000 total rocks, 710 landed in the oceans (71%), leaving exactly 290 rocks to hit dry land.
+
+### The Three Biome Classification Marks
+
+#### Class S Biomes: Metamorphic Apex Ecosystems
+- Distribution: Triggered exclusively by the 50 major Class S Anchors (18 on land, 32 in deep ocean zones).
+- Environmental Profile: These zones are characterized by completely altered, non-hazardous physics changes (such as mild gravitational dampening fields or luminous sky-auroras caused by photon-twisting particle grids). The native flora here has integrated the crystal properties of the core, developing iridescent leaves that process background thermal energy. This is where Tier 10 Primal Cores sit, serving as the ultimate green-energy prizes for humanity.
+- Survival Rating: CRITICAL to STRATEGIC CATASTROPHE | Average ELQ: $45.00\text{--}180.00+$
+
+#### Class A & B Biomes: High-Mutagenic Wilds
+- Distribution: Centered around the medium Class A & B Beacons (68 on land, 182 in oceans).
+- Environmental Profile: Saturated with a thick, shimmering atmospheric mist of cellular particles. These particles induce a complex optical distortion field via altered light-scattering arrays, turning the sky into an ever-shifting, multicolored canvas. The ecosystems here undergo accelerated evolutionary shifts, changing their colors and survival strategies on a month-to-month basis. Armed military expedition teams routinely harvest the Greater Cores formed within these zones to keep human sanctuaries fully electrified.
+- Survival Rating: HIGH to ACUTE HAZARD | Average ELQ: $4.20\text{--}12.80$
+
+#### Class C & D Biomes: The Sanctuaries & Borderlands
+- Distribution: Anchored by the abundant, small Class C & D Shards (204 on land, 496 in oceans).
+- Environmental Profile: Mildly erratic Earth weather heavily buffered by human engineering. This is where the world’s surviving cities established their walled boundaries, safely leveraging the steady, low-yield energy output of the minor space shard crystals to build self-sustaining Sanctuaries.
+- Survival Rating: LOW to MODERATE | Average ELQ: $0.15\text{--}1.45$
+
+---
+
+## SECTION 4: BIOLOGY & EARTH-SYMBIOSIS ADAPTATION
+
+The alien cellular network exists in two distinct, highly synchronized evolutionary branches. Upon contact with Earth, the cells did not attempt to overwrite terrestrial biology; instead, they underwent a Deep Naturalization Phase, blending smoothly with our planet’s existing rules, chemistry, and organic systems.
+
+                         ┌─────────────────── Alien Rock Germ ───────────────────┐
+                         │                                                       │
+                         ▼                                                       ▼
+             [Xenocytos Symbiont]                                    [Xenocytos Necrotic]
+         - Intracellular (Living Hosts)                          - Extracellular (Environmental Matrix)
+         - Mutualistic & Defensive                               - Autotrophic, Mineral, & Ecological
+         - Carbon-Silicate Skeleton Bridging                     - Tectonic Roots / Biosphere Memory Mimicry
+
+### 1. Xenocytos Symbiont (The Living Strain)
+This cellular variant integrates directly within the intracellular fluid of Earth's fauna and humans, acting as an active, supportive internal bio-shield.
+
+- Baseline Physique Overhaul (The Human Upgrade): Because the Xenocytos rewrites host biology at a foundational cellular level, it dramatically optimizes standard human physiology.
+  - Mitochondrial Efficiency: The cells upgrade ATP synthesis, granting all post-Seedfall humans an inherent, permanent $+200\%$ boost to baseline physical stamina, cardiovascular capacity, and muscle recovery rates.
+  - The Buffered Ceiling: Because human baseline stamina ($S$) has been mechanically expanded into a massive, highly efficient tank, an individual can push their physical limits far harder and longer before tapping into the raw alien cell reserves ($R_c$). Tapping into alien energy does not happen right away; it serves strictly as a high-tier fallback once this newly amplified human capacity is entirely exhausted.
+- Host-Preservation Shielding & The Growth Loop: The cell's primary operational focus is the structural preservation of its host organism.
+  - Radiation & Toxic Insulation: Xenocytes effortlessly process ambient radiation and industrial pollutants, filtering them out of the blood stream and converting those molecules into clear, usable metabolic carbohydrates.
+  - The Proportional Feedback Loop: The cell operates on a perfect mutualistic scale. The stronger, faster, and more physically optimized the human host becomes through training or track progression, the more refined the Xenocytos becomes. It increases its structural processing speed, deepens its defensive insulation thresholds, and increases the storage capacity of the host's nervous system.
+- Carbon-Silicate Skeleton Bridging (Auxetic Fracture Defense): To integrate carbon-based Earth biology with alien silicate structures, the living strain alters the calcium phosphate in human and animal bone matrices, fabricating a highly advanced Carbon-Silicate Matrix. These structures are woven into an Auxetic Geometry, causing bones to expand and grow denser perpendicular to the line of impact when hit. This increases skeletal tensile strength tenfold without increasing physical body weight, allowing human limbs to absorb extreme kinetic shockwaves without fracture.
+- The Gluttony Buff & Energy Reservoirs: Because of the highly efficient digestive filtration of the Xenocytes, humans can over-consume nutrient-dense core elements or beast meat without risk of metabolic shock.
+  - Storage Mechanism: Excess energy and calories are cleanly sorted into an internal backup reserve known as the Symbiotic Cell Reserve ($R_c$).
+  - The Safety Net: When native human stamina is drained down to zero, the cells seamlessly tap into the reserve, pumping stored oxygen, glucose, and focus-enhancing hormones directly into the muscles to keep the host operational without physical down-time.
+
+### 2. Xenocytos Necrotic (The Environmental Strain)
+This variant adapted flawlessly to Earth’s inorganic and botanical spheres, completely naturalizing into our planet's ecological systems.
+
+- Earth Element Co-Option & Tectonic Tap-Rooting: Rather than rejecting Earth's landscape, the environmental strain leverages local minerals. In mountain biomes, it bonds with basalt to form quartz-like energy veins. To ground its structures, it extends microscopic, diamond-hard filaments deep through the crust to anchor into seismic fault lines and geothermal vents, siphoning geothermal heat to stabilize surface ecosystems.
+- The Biosphere Memory Leak (Environmental Mimicry): The environmental strain possesses an organic evolutionary archive. Upon settling into an Earth biome, it downloads the local genetic templates. In dense rainforests, it grows iridescent ferns and bioluminescent vines that mimic Earth vegetation to maximize sunlight capture. In arctic regions, it replicates the structural patterns of native mosses and lichens to insulate itself against sub-zero conditions.
+- The Earth-Core Seasonal Sync (Circadian Rhythm): To fully integrate with Earth's rotation, the environmental strain adapted its metabolic behavior to the planet's seasonal and day-night cycles.
+  - Day Phase: The cells utilize an advanced form of Hybrid Photosynthesis. Their membranes absorb solar photons *and* local geological energy, processing them with near-100% thermodynamic efficiency.
+  - Night Phase: The cells shift into an ecological rest state, releasing accumulated clean moisture back into the topsoil, acting as a natural, glowing aquifer.
+- The Three-Stage Agricultural Calibration: Due to the high nutrient affinity of the environmental cells, traditional farming relies on a balanced chemical suppressant grid managed by Sanctuary engineers to regulate cellular soil absorption:
+  - Stage I: Stabilized Growth (Safe Zone): Cells are perfectly regulated. Crops grow with an enhanced, dense nutrient profile, producing massive harvest yields.
+  - Stage II: Competitive Friction (The Blight): The balance wavers. The soil cells become over-active, siphoning away 50% of incoming agricultural fertilizers to fuel their own local expansion. Crops are harvested smaller but remain viable after processing.
+  - Stage III: Full Siphon (The Black Out): Suppressant systems drop completely. The soil cells undergo a rapid metabolic surge, drawing 100% of the surrounding field's nitrogen and minerals within 45 seconds. The crop, emptied of mineral structure, instantly turns into a soft, dry black organic powder.
+
+### 3. The Biome Balance: Containment vs. Integration
+When humans enter an environmental zone with an open wound, the living strain inside the human body interacts with the environmental strain in the air or dirt.
+- The Border Wall: The host's internal Xenocytes immediately establish a localized cellular barrier around the wound, safely containing any loose environmental spores using the host's stored energy reserve ($R_c$).
+- The Transition Vector: If the host's energy reserves are completely dry, the internal cells cannot maintain the containment barrier. The environmental strain safely integrates with the wound, accelerating the host's biology toward Level 6 Feralization—safely putting the conscious mind to sleep while updating the body's physical systems to match the surrounding zone's creature properties.
+
+---
+
+## SECTION 5: THE SPECIES SPECTRUM: HUMANOID SUBSPECIES & ADAPTATION DYNAMICS
+
+The interactive blending of the Xenocytos Symbiont with Earth’s populations during the 34-Day Seedfall led to the stabilization of three distinct, viable humanoid subspecies.
+
+A foundational law of Xenocytos biology is **Perfect Phenotypic Preservation**. Because the cellular network's primary operational objective is to ensure its host remains structurally optimized, well-protected, and hyper-preserved against environmental decay, the higher an individual's adaptation coefficient, the more physically flawless, symmetric, and aesthetically heightened their appearance becomes. 
+
+In female hosts, this survival engineering prioritizes structural vitality, tissue longevity, and optimized metabolic energy reserves, resulting in an exceptionally pristine, beautiful, and naturally well-endowed physique designed to withstand high atmospheric pressure and combat stresses.
+
+                      ┌────────────────── Humanoid Phenotypes ──────────────────┐
+                      │                                                           │
+                      ▼                           ▼                               ▼
+               [The Terrans]              [The Lithari]                   [The Sylvan]
+             - Baseline Human Root      - Dense Silicate Bone Matrices  - Fluidic Carbon Bio-Networks
+             - Standard Symmetry        - Striking, Glass-Glow Aesthetics - Ethereal Luminous Features
+
+### 1. The Terrans (The Root Branch)
+- Anatomy: Visually aligned with pre-Seedfall humanity, but refined. As their track progression increases, their skin clarity, muscular definition, and structural facial symmetry auto-correct to peak biological limits due to continuous cellular filtering.
+- Biocompatibility: They represent the vast majority of the population inside the Sanctuaries. They maintain the highest overall genetic flexibility, displaying equal distribution rates across the Awakened, Enhanced, and Baseline tracks.
+
+### 2. The Lithari (The Shard-Born)
+- Anatomy: Born from populations that survived near the Class A & B airburst perimeters. The internal Carbon-Silicate Matrix within their skeletal systems is highly pronounced. This dense structural shielding gives their bodies an exceptionally sculpted, statuesque appearance. Sections of sub-dermal epidermal tissue, fingernails, and dental structures display a smooth, flawless, semi-translucent quartz-like luster. Higher adapted individuals possess a striking, porcelain-like or crystal-chiseled aesthetic.
+- Biological Adaptation: Their bodies are naturally dense. They possess an innate $+35\%$ baseline resistance to direct kinetic impacts, concussive pressure waves, and physical bone fractures due to their micro-auxetic bone configuration. They excel naturally within the heavy frontline units of the Enhanced Track or as structural engineers working directly on the deep foundations of the Sanctuary walls.
+
+### 3. The Sylvan (The Mist-Born)
+- Anatomy: Developed from communities caught within the permanent, cellular mists of the early Class S and A regional biomes. Their blood chemistry features an organic copper-silicate variant, giving their vascular networks a faint, luminescent pale emerald or cyan hue under skin tissue. Their irises possess a permanent, soft reflective sheen that completely eliminates night-blindness by altering local light wavelengths. Highly adapted Sylvans exhibit an ethereal, captivatingly beautiful appearance, with perfectly smooth skin and a radiant biological glow that mirrors the purity of their internal energy stores.
+- Biological Adaptation: Their systems are optimized for rapid cellular transfer. They process ambient energy fields and core-infused nutrients with unmatched speed, granting them a baseline $+20\%$ efficiency when drawing from the Symbiotic Cell Reserve ($R_c$). They possess an inherent affinity for the Awakened Track, frequently manifesting high-speed elemental or biological processing techniques.
+
+---
+
+## SECTION 6: THE SIX LEVELS OF EXHAUSTION ("OVER-DRAFTING")
+
+When abilities are forced past safe thresholds, energy draws through a precise cascading system divided into six operational tiers. Thanks to the cellular physique overhaul, human stamina ($S$) acts as a massive primary battery, shielding the user from alien-cell over-drafting during standard operation:
+
+$$\text{Energy Expenditure Sequence: } S \text{ (Upgraded Human Stamina)} \longrightarrow R_c \longrightarrow M \text{ (Human Body Mass)}$$
+
+[Level 1: Fatigue] ──> [Level 2: The Vacuum] ──> [Level 3: Latency] ──> [Level 4: The Hollow] ──> [Level 5: Crystallization] ──> [Level 6: Feralization]
+
+- Level 1: Fatigue (The Burn): Triggers when upgraded human stamina drops ($S \le 20\%$) while the reserve is empty ($R_c = 0\%$). The user experiences acute physical exhaustion, heavy breathing, and a temporary 50% reduction in power output. Reversible with a standard high-calorie meal and standard sleep.
+- Level 2: The Vacuum (Reserve Siphon): Triggers only when the host's massive baseline stamina tank hits absolute zero ($S = 0\%$), forcing the system to actively siphon from the Symbiotic Cell Reserve ($R_c$). The host loses the capacity to sweat; instead, excess metabolic heat is radiated directly away from the skin surface as a dry, shimmering thermal distortion field.
+- Level 3: Latency (Neural Delay): Triggers when the cell reserve drops low ($R_c \le 15\%$). Cognitive processing slows down, reaction speeds drop by $40\%$, and peripheral vision temporarily experiences stark monochrome tunneling. Under the heavy load, the user's internal carbon-silicate skeletal frame emits an audible, rhythmic crystalline grinding noise through their muscle tissue. This is the biological redline where the cellular network sounds critical internal warnings.
+- Level 4: The Hollow (Mass Breakdown): Triggers at absolute zero ($S = 0\%, R_c = 0\%$). The symbiont activates its baseline protection protocol, breaking down stored subcutaneous fats and non-essential muscle tissue ($M$) to fuel emergency abilities. Visually, the user experiences a terrifying "biological ghosting effect": skin pigment fades to an ashen translucent white, superficial veins pulse with a piercing neon-clear energy glow, and physical body weight drops sharply as tissue is vaporized straight into active kinetic fuel.
+- Level 5: Core-Crystallization (Structural Lockdown): Triggers if body mass consumption exceeds 20% in a single event. To protect the host's brain and cardiovascular center from total breakdown, the Xenocytos enters an emergency lockdown. Sections of peripheral skin and musculature stiffen, temporarily crystallizing into a rigid mineral state to preserve structural integrity. Movement becomes severely impaired.
+- Level 6: Feralization (Ecosystem Merge): Triggers if body mass consumption crosses the critical 30% threshold, or if environmental Necrotic spores integrate directly with an unshielded Level 5 nervous system. The conscious human mind enters a peaceful, permanent dormant state while the Xenocytos takes direct, automated control of the physical shell to ensure immediate survival, morphing the host into a permanent extension of the regional ecosystem.
+
+---
+
+## SECTION 7: THE TRIPLE-TRACK HUMAN HIERARCHY
+
+### 1. The Awakened Track: "The Crown Ranks" (S to D Class)
+- S-Class (The Apex Powers): Individuals capable of interacting directly with high-tier environmental anomalies and safely condensing or absorbing advanced cores. They serve as the foundational cornerstones of major Sanctuary defenses.
+- A/B-Class (The Elites): Highly capable tactical leaders who guide expeditions into the Wilds to gather matured cores. They possess the high metabolic capacity required to safely harvest and consume core energy without structural strain.
+- C/D-Class (The Standard): Standard tactical personnel who utilize localized elemental or physical enhancements while keeping a close eye on their Level 1 metrics.
+
+### 2. The Enhanced Track: "The Iron Ranks" (S to E Class)
+- S-Class (The Limit-Breakers): Non-mutated individuals who achieve full Enlightenment via rigorous mental discipline or surviving a Level 4 event. They develop an internal core center within their own bodies, unlocking Pseudo-Abilities (e.g., weapon-channeling or kinetic dispersion fields) that allow them to match the power scale of the Awakened.
+- A/B/C-Class (The Backbone): Specialized physical operatives, heavy logistics coordinators, and defensive wall operators.
+- D/E-Class (The Auxiliary): Provide essential physical support, security infrastructure, and tactical transport operations.
+
+### 3. The Baseline Track: "The Cog Ranks" (S to F Class)
+- S-Class (The Architects): The intellectual elite who engineer the Sanctuary defense matrices, direct the agricultural chemical suppressant formulas, and construct the physical containment walls. They are highly respected by all tracks due to their irreplaceable technical value.
+- A/B/C-Class (The Specialists): Technical engineers, weapons creators, grid operators, and medical personnel who maintain the complex infrastructure of the modern city.
+- D/E/F-Class (The Civilians): Perform the administrative, logistical, and foundational tasks that keep human society organized and comfortable. Unawakened and unenhanced regular humans in this track lack defensive cellular thresholds, making them uniquely vulnerable to external environmental hazards (such as absorption thermal drops).
+
+---
+
+## SECTION 8: THE NON-HUMANOID ECOSYSTEM & LIFE SPECTRUM
+
+The Xenocytos structural rewrite on non-humanoid life bypassed complex cognitive alterations. Instead, it left all core primal instincts, behavioral traits, territorial imperatives, and reproductive drives fully intact, heavily amplifying their urgency, physical scale, and mechanical execution via direct environmental feedback loops.
+
+                       ┌────────────────── Non-Humanoid Phyla ──────────────────┐
+                       │                                                        │
+                       ▼                        ▼                               ▼
+               [The Chitin-Vain]        [The Litho-Fauna]               [The Chlorophyte-Glow]
+             - Invertebrate Swarms    - Heavy Tectonic Beasts          - Sentient Botanical Grids
+             - Hyper-Conductive Segments - Bio-Alloy Armor Shells      - Micro-Particle Spore Fields
+
+### Part I: The Instinct-Amplified Life Cycle & Core Inheritance
+The survival loop of post-Seedfall fauna follows a strict biological progression governed by native earthly drives, supercharged by cellular evolution:
+
+[Spawning / Birth] ──> [Core Germination] ──> [Territorial Aggression / Consumption] ──> [Mating Sync] ──> [Senescence / Core Return]
+
+1. Birth & Core Germination: Offspring are born or hatched via standard terrestrial methods (eggs, live births, larval stages). Newborns possess small, low-grade Internal Seed Cores. Their primary, amplified survival instinct is immediate nutritional consumption to feed the growing crystal core.
+2. Territorial Dominance & Core Theft: As creatures grow, their natural territorial needs are hyper-amplified. They aggressively defend hunting grounds. When a beast kills a rival predator, its primal instinct compels it to tear out and absorb the victim's core. This internal energy absorption triggers an immediate physical mutation leap, increasing the beast's Tier and structural scale.
+3. The Mating Synchronization Pulse: The natural instinct to produce offspring and pass on genetic material remains completely intact, acting as the defining event of regional biomes. During localized mating seasons, male and female fauna experience a Core Resonance Sync. Their internal crystals emit harmonized bio-electric and thermal frequencies, alerting prospective mates across dozens of kilometers.
+   - The Protective Inversion: To guarantee the successful continuation of the species, pregnant females or nest-guarding pairs experience a massive surge in their internal Carbon-Silicate Matrix and Bio-Alloy Armor Shells, maximizing their defensive capacities to protect their unborn young.
+4. Senescence & Natural Core Deposition: If a beast avoids violent combat death and reaches the end of its natural lifespan, its reproductive and hunting drives fade. The internal core begins a slow, final extraction loop, safely absorbing the remaining biological tissue of the dying creature over its final hours. Once the organism passes, the fully matured, highly stable Primal Core remains behind in the nesting grounds, safely sitting on the surface for future generations of beasts—or human expeditions—to discover.
+
+### Part II: The Taxonomical Branches
+
+#### 1. The Chitin-Vain (Arthropods & Invertebrates)
+- Anatomy: Terrestrial insects, arachnids, and marine crustaceans underwent exponential physical expansion due to their structural reliance on exoskeleton geometry. The Carbon-Silicate Matrix replaced simple calcified chitin with highly conductant Silicate-Graphene Composites.
+- Behavioral Instincts: Their hardwired swarming, nesting, and reproductive instincts are massively magnified. Queens lay millions of highly durable, core-seeded eggs, fiercely protected by hive warriors whose hyper-conductive segments transfer defense signals instantaneously across the entire colony. Their legs, wings, and stinger apparatuses are sharpened to a sub-molecular width, possessing an inherent $+200\%$ cutting efficiency against unshielded carbon matter.
+
+#### 2. The Litho-Fauna (Vertebrate Apex Predators & Megafauna)
+- Anatomy: Mammalian, avian, and reptilian lineages that naturalized near Class A, B, and S impact sites. Their physical volumes scaled up by 300% to 1,200% compared to pre-Seedfall baselines. Internal organ matrices are heavily reinforced with vascular copper-silicate coils designed to absorb, isolate, and channel vast thermal or kinetic energy currents.
+- Dermal & Reproductive Profiling: Epidermal scales, fur, and hides integrated raw minerals (basalt, granite, obsidian), converting their outer defense into heavy Bio-Alloy Armor Shells. Woven into micro-auxetic lattices, these armor plates thicken immediately upon impact. Their natural maternal and paternal protective instincts are terrifyingly acute; any threat to their nesting young triggers an emergency adrenaline loop that hardens their armor plates to near-invulnerable thresholds.
+
+#### 3. The Chlorophyte-Glow (Sessile & Sentient Flora)
+- Anatomy: Massive, deep-rooted botanical frameworks that form the geographic cores of Class A and Class S biomes. Standard cellular chlorophyll mutated into specialized Xeno-Chloroplasts, which appear as shimmering translucent veins running through indigo, black, or iridescent teal leaves.
+- Ecosystem Control: These plants follow ancient propagation instincts, venting thick clouds of micro-particle spores to carry seed germs across continents via high-altitude wind currents while actively reclaiming dead biological matter to enrich their root systems.
+
+---
+
+### Part III: The Combat Threat Mirror & Representative Entities
+
+┌─────────────────────────┬───────────────────────────┬───────────────────────────────────────────┐
+│ Beast Eco Tier          │ Primary Behavior Profile  │ Minimum Required Engagement Force         │
+├─────────────────────────┼───────────────────────────┼───────────────────────────────────────────┐
+│ Tiers 1–3: Baseline     │ Prey, Insects, Scavengers │ Baseline Track Security / D-Class Enhanced│
+│ Tiers 4–6: Wilds        │ Predators, Pack Leaders   │ Min. Fireteam: B-Awakened or A-Enhanced   │
+│ Tiers 7–9: Calamity     │ Zone Anchors, Behemoths   │ Full Strike Cohort (Multiple S-Class)     │
+│ Tier 10: Primal Gods    │ Singular Biome Protectors │ Strategic Catastrophe (Sanctuary Level)   │
+└─────────────────────────┴───────────────────────────┴───────────────────────────────────────────┘
+
+#### Tiers 1–3: The Baseline Prey & Scavengers
+
+##### Tier 1: Oxide-Scarab (*Coleoptera ferrox*) — Chitin-Vain
+- Mass: $2\text{ kg to } 5\text{ kg}$ | Core Level: Tier 1 Fragile Shard
+- Profile: Small, multi-legged detritivores that feast exclusively on old-world scrap metal and low-grade environmental topsoil. Their mandibles secrete an acidic, hyper-oxygenated fluid that dissolves structural steel beams within seconds.
+- Instinct Matrix: Driven by an intense nesting instinct. They congregate in dark, metallic ruins to lay clusters of crystalline eggs, aggressively chewing through human infrastructure to clear a safe space for their larvae.
+
+##### Tier 2: Razor-Gaze Falcon (*Falco aculeatus*) — Litho-Fauna
+- Wingspan: $3.5\text{ meters}$ | Core Level: Tier 2 Common Core
+- Profile: High-altitude avian hunters with feathers forged from thin, flexible iron-silicate sheets. When diving at terminal velocity ($v \approx 320\text{ km/h}$), their wing edges cut through standard carbon ropes and unreinforced canvas partitions effortlessly.
+- Instinct Matrix: Displays extreme territorial hunting behaviors. They build massive cliff-side nests and hunt solo across vast plains to supply fresh, core-enriched meat to their chicks.
+
+##### Tier 3: Grotto-Hound (*Canis subterraneus*) — Litho-Fauna
+- Mass: $120\text{ kg}$ | Core Level: Tier 3 Liquid Core
+- Profile: Hairless, pack-hunting canids that dwell within the dark subterranean ruins of the lost 45% cities. They navigate via high-fidelity thermal imagery captured by twin rows of glowing sensory pits flanking their snouts.
+- Instinct Matrix: Bound by a rigid pack hierarchy. Their baseline canine social instincts are highly elevated; they coordinate complex group ambushes to protect their pack alpha and shield pregnant pack females during denning seasons.
+
+---
+
+#### Tiers 4–6: The Wilds Predators
+
+##### Tier 4: Ash-Weaver Spider (*Aranea cineris*) — Chitin-Vain
+- Diameter: $6\text{ meters}$ | Core Level: Tier 4 Major Asset
+- Profile: Solitary web-weavers that inhabit high-mutagenic forest canopies. They spin massive webs out of high-tensile carbon filaments coated in an electrostatic neurotoxic gel. When touched, the web discharges a brief 15,000-Volt kinetic shock straight into the target's nervous system, instantly wiping out native stamina ($S = 0$) and causing Level 2 Exhaustion.
+- Instinct Matrix: Driven by cannibalistic mating cycles and protective brood dynamics. Females spin massive, electrified silk egg sacs, guarding them with hyper-aggressive defensive positioning until the thousands of spiderlings hatch.
+
+##### Tier 5: Basalt-Crag Bear (*Ursus tectonicus*) — Litho-Fauna
+- Mass: $4,500\text{ kg}$ | Core Level: Tier 5 Commercial Core
+- Profile: A massive mammalian predator whose entire spinal column and shoulders are covered by dense plates of crystalline basalt. By venting high-pressure steam generated from its deep internal vascular coils, it can trigger localized kinetic ground tremors within a 30-meter radius.
+- Instinct Matrix: Hyper-amplified maternal protective drive. A mother Basalt-Crag Bear guarding her cubs enters an absolute frenzied state; her core energy absorption efficiency doubles temporarily, allowing her to ignore mortal injuries to ensure the safety of her offspring.
+
+##### Tier 6: Goliath Strider (*Goliathus mictur*) — Chitin-Vain
+- Height: $18\text{ meters}$ | Core Level: Tier 6 Elite Core
+- Profile: Colossal, long-legged aquatic insects that walk along the surface of regional ocean zones and inland lakes near Class B airburst centers. Their primary defense is a compressed hydro-kinetic cannon mounted in their throat, capable of projecting water slugs at Mach 2 speeds.
+- Instinct Matrix: Migratory and reproductive focus. They congregate in massive numbers along specific coastal shelves during seasonal moon cycles, utilizing their hydro-cannons to ward off deep-sea predators while spawning their aquatic larvae.
+
+---
+
+#### Tiers 7–9: The Calamity Entities
+
+##### Tier 7: Spore-Father Oak (*Quercus xeno-sentient*) — Chlorophyte-Glow
+- Height: $120\text{ meters}$ | Core Level: Tier 7 Sovereign Core
+- Profile: A massive, semi-conscious botanical entity that anchors high-mutagenic swamp zones. It can actively reshape its limb geometry over the course of minutes to block off human travel veins. It maintains a permanent, 1-km perimeter spore mist that rapidly accelerates Level 6 Feralization if human energy reserves ($R_c$) hit absolute zero.
+- Instinct Matrix: Driven by deep ecosystem conservation and systemic root propagation instincts, claiming territory by slowly spreading its seed network across damaged soil beds.
+
+##### Tier 8: Storm-Scythe Wyvern (*Draco fulgur*) — Litho-Fauna
+- Wingspan: $45\text{ meters}$ | Core Level: Tier 8 Hegemonic Core
+- Profile: A massive airborne reptile that mimics the electrical patterns of Class A atmospheric beacons. Its wings contain dense layers of conductive copper-silicate feathers that harvest energy from ambient storms, allowing it to project sweeping arcs of high-intensity plasma that can melt outer Sanctuary alloy wall partitions.
+- Instinct Matrix: Alpha territorial supremacy. They engage in cataclysmic aerial mating duels inside lightning storms, with victorious pairs claiming entire mountain ranges as exclusive, multi-decade nesting sites.
+
+##### Tier 9: Tectonic Maw Leviathan (*Charybdis terra*) — Litho-Fauna
+- Length: $280\text{ meters}$ | Core Level: Tier 9 Sovereign Diamond
+- Profile: A massive, subterranean serpentine entity that moves through Earth’s upper crust by using high-frequency ultrasonic vibrations to liquefy solid bedrock ahead of its path. Its migration trails leave permanent geographic canyons.
+- Instinct Matrix: Driven by deep geological hibernation and feeding instincts. It moves along geothermal lines to regulate its massive internal core temperature, occasionally rising to ancient underground birthing chambers to deposit its crystal-sheathed young.
+
+---
+
+#### Tier 10: The Primal Gods
+
+##### Tier 10: Genesis-Aegis World-Turtle (*Aegischelon*) — Litho-Fauna / Chlorophyte-Glow Hybrid
+- Mass: $\approx 8.4 \times 10^7\text{ metric tons}$ | Core Level: Tier 10 Infinite Artifact
+- Profile: A singular, titanic organism that has completely fused with the primary Class S Anchor stone located within the central Amazonian Metamorphic Axis. Its massive carapace measures over 4 km in diameter and supports a fully self-sustaining Class S ecosystem on its back.
+- Instinct Matrix: Global conservation instinct. It possesses an ancient, deep-rooted protective drive over the entire continent's biological matrix, moving slowly across the landmass to balance tectonic plates and nurture the planetary life cycle.
+
+---
+
+## SECTION 9: THE HARD MATHEMATICS & THEMATIC INTEGRATION
+
+### Subsection 1: The Over-Draft Formula
+$$\Delta M = \frac{E_{\text{emergency}}}{\text{Efficiency Constant } (k)}$$
+- Where $k = 3,500\text{ kcal per lb of human tissue}$. This equation tracks structural tissue conversion during a Level 4 Over-Draft event, mapping directly to physical decay metrics.
+
+### Subsection 2: Core Refinement & Absorption Limit ($A_r$)
+The total capacity for a human host or rival beast to metabolize and break down a Core through internal consumption follows an inverse density threshold:
+$$A_r = \alpha \times (T_h)^2 \times \left(1 + \frac{S}{100}\right) \cdot \left[ \frac{Q_{\text{current}}}{Q_{\text{max}}} \right]$$
+- Where $\alpha = 0.5$ is the metabolic coefficient, $T_h$ represents the track tier value, and $Q$ tracks the remaining internal energy charge of the Core. As $Q \to 0$, the crystal lattice structure weakens proportionally until structural integrity collapses completely.
+
+### Subsection 3: Crop Viability Efficiency ($V$)
+$$V = \frac{\text{Suppressant Volume } (L)}{\text{Ambient Soil Mutation Particle Count } (P_m)} \times 100\%$$
+- Values $\ge 85\%$ yield Stage I. Values between $70\%\text{--}84\%$ yield Stage II. Values $< 70\%$ trigger Stage III (Full Siphon within 45 seconds).
+
+### Subsection 4: The Core Maturation & Energy Density Formula
+$$Q_{\max}(t) = Q_{\text{base}} \times \left(1 + \ln\left(\frac{t}{t_0}\right)\right) \times \eta_{\text{photo}}$$
+- Where $Q_{\text{base}}$ is the core’s baseline structural capacity, $t$ is the age of the environmental grid in days, $t_0$ is the stabilization threshold (30 days), and $\eta_{\text{photo}}$ is the local hybrid photosynthetic index derived from combined solar and background radiation intake.
+
+### Subsection 5: Kinetic Dispersion Wall Dynamics
+$$Y_s = \frac{\frac{1}{2} M_b \cdot v_b^2}{\kappa \cdot W_{\text{thick}}}$$
+- Calculates the exact structural force dispersion when a non-humanoid creature impacts a Sanctuary alloy wall partition ($W_{\text{thick}}$).
+
+### Subsection 6: Subspecies Energy Transmission Gradients ($\mathbb{E}_g$)
+$$\mathbb{E}_g = \Psi_{\text{base}} \times \left(1 + \Delta_{\text{subspecies}}\right)$$
+- For Terrans: $\Delta_{\text{subspecies}} = 0.00$ (Uniform balance across all power mechanics).
+- For Lithari: $\Delta_{\text{subspecies}} = +0.35 \text{ Kinetic Resist} / -0.15 \text{ Elemental Velocity}$
+- For Sylvans: $\Delta_{\text{subspecies}} = +0.20 \text{ Reserve Transfer Rate } (R_c) / -0.10 \text{ Kinetic Shock Tolerance}$
+
+### Subsection 7: Grid Binding Efficiency & Thermodynamic Degradation ($G_e$)
+$$G_e = \left( \frac{\Phi_{\text{containment}}}{\Phi_{\text{raw}}} \right) \times e^{-\lambda (T_{\text{load}} - T_{\text{ambient}})}$$
+- Where $\Phi_{\text{containment}}$ is the stabilization field metric supplied by Baseline Architects, $\lambda$ is the core's native radiation decay coefficient, and $T$ is the active thermal operating temperature during power draw.
+
+### Subsection 8: Non-Humanoid Shell Hardening Metric ($H_s$)
+$$H_s = H_{\text{base}} \times \left(1 + \ln\left(\frac{E_{\text{impact}}}{E_{\text{threshold}}}\right)\right) \cdot \mu_{\text{silicate}}$$
+- Where $H_{\text{base}}$ is the native armor thickness, $E_{\text{impact}}$ is the incoming kinetic energy in Joules, $E_{\text{threshold}}$ is the initial deformation limit of the bio-alloy plating, and $\mu_{\text{silicate}}$ is the mineral saturation constant of the environment.
+
+### Subsection 9: The Environmental Lethality Quotient ($ELQ$)
+$$ELQ = \left( \frac{D_{\text{beast}} \times P_{\text{mutagen}}}{\Psi_{\text{shield}}} \right) \cdot \ln(T_{\text{class}})$$
+- Where $D_{\text{beast}}$ is the predator density index, $P_{\text{mutagen}}$ is the atmospheric cell particle saturation, $\Psi_{\text{shield}}$ is the human engineering defense integrity value, and $T_{\text{class}}$ is the numeric tier scaling value of the local regional impactor class.
+
+### Subsection 10: The Reproductive Core Inheritance Multiplier ($\mathbb{R}_m$)
+When fauna engage in their natural reproductive cycles, the energy density passed down to the offspring's internal seed core is mathematically scaled by the parents' combined core maturity levels:
+$$\mathbb{R}_m = \left( \frac{Q_{\text{paternal}} + Q_{\text{maternal}}}{2} \right) \times \gamma_{\text{instinct}}$$
+- Where $\gamma_{\text{instinct}}$ represents the localized territorial stability coefficient ($1.0$ to $1.5$). Higher parental dominance and stable nesting environments directly yield structurally superior, higher-tier newborn seed cores, ensuring the natural selection and evolutionary advancement of the species.
+
+---
+
+# CONCRETE OPERATIONAL EXAMPLES
+*Use the following format templates to maintain perfect mechanical consistency for all generated scenarios or characters:*
+
+### Example Scenario A: Core Absorption Event
+- **Character:** Kaelen (Sylvan, B-Class Awakened).
+- **Stamina Metric:** $S = 45\%$, $R_c = 80\%$.
+- **Action:** Absorbing a Tier 3 Liquid Core to replenish energy.
+- **Resulting Mechanical Effects:** The phase-inverted endothermic siphon activates. Frost instantly fast-freezes Kaelen's gauntlets as ambient heat is pulled to break the core's silicate bonds. Because Kaelen belongs to the Awakened Track, his internal Xenocytos instantly balances his core temperature; he ignores the thermal flash completely, maintaining perfect physiological health with zero risk of hypothermia. The core shatters into fine luminescent dust as $Q \to 0$.
+
+### Example Scenario B: Baseline Exposure Event
+- **Character:** Marcus (Terran, C-Class Baseline Logistics Specialist).
+- **Stamina Metric:** Unenhanced ($S$ and $R_c$ tracking protocols do not apply).
+- **Action:** Standing within 2 meters of an active endothermic core extraction array without an active thermal environment shield.
+- **Resulting Mechanical Effects:** The core siphon pulls massive localized thermal energy out of the room. Lacking the intracellular bio-shielding of an Enhanced or Awakened track physique, Marcus has no biological protection against the rapid endothermic temperature drop. He suffers immediate, severe Stage II hypothermia within 15 seconds. Emergency services must deploy thermal shielding blankets immediately.
